@@ -1,0 +1,8 @@
+AxionOS v1.4
+Build Date : 08/05/2025
+- Rebase whole device tree
+- Switch to udfps aidl (sofod is fine only in goodix_fod for now)
+- Disable FRP
+- Bring back miui camera
+- Drop dolby (switch to v4a)
+- Add and increase 5 GHz network signal tolerance
