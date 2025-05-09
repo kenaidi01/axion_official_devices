@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1746592161,
-            "filename": "axion-1.3-NIGHTLY-20250507-OFFICIAL-GMS-marble.zip",
-            "id": "7c86be3db568616dd8be223c0756ecca",
+            "datetime": 1746700200,
+            "filename": "axion-1.4-NIGHTLY-20250508-OFFICIAL-GMS-marble.zip",
+            "id": "85b1bc58cfef04ee74eca9bbcad6a4ef",
             "romtype": "OFFICIAL",
-            "size": 2418766180,
-            "url": "https://sourceforge.net/projects/pablo-marble-builds/files/Axionaosp_marble_official/axion-1.3-NIGHTLY-20250507-OFFICIAL-GMS-marble.zip/download",
-            "version": "1.3"
+            "size": 2419610403,
+            "url": "https://sourceforge.net/projects/pablo-marble-builds/files/Axionaosp_marble_official/axion-1.4-NIGHTLY-20250508-OFFICIAL-GMS-marble.zip/download",
+            "version": "1.4"
         }
     ]
 }

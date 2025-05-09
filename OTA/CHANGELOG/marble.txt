@@ -2,6 +2,33 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 08/05/2025
+=================
+-Switched to libperfmgr
+-Split and configure perf tuning (from Aospa)
+-Remove QTI perfd
+-Migrate to common libqti-perfd-client and power-libperfmgr
+-Drop libadreno_app_profiles
+->powerhint:
+-Import powerhint.json from lahaina
+-Adapt and tune for SM8475 (cape)
+-Follow taro's CPU freqs for little cluster
+-Handle thermal profile state via powerhint
+-Drop CPU freqs boosting on INTERACTION
+->props:
+-Enable usage of dex2oat64
+-Disable Skia tracing by default
+-Disable phantom process monitoring
+-Do not use phase offsets as duration fixes random qs lags
+-Sync vsync work duration with gs201
+-Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
+-rootdir: Kill WALT CPU boosting
+-init: Kill statsd service
+-init: Give proper permissions for /dev/diag
+-sensors: add more padding to _oem_msg
+-overlay: configure SQLite to operate in MEMORY mode
+-sepolicy: Allow powerhal write to /proc
+
 Date - 07/05/2025
 =================
 - Update blobs & fp from  OS2.0.4.0.VMRMIXM
