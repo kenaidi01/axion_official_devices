@@ -25,6 +25,7 @@
 | **POCO F3/Mi 11X/Redmi K40**         | `alioth`     |
 | **POCO F4/Redmi K40S**     | `munch`     |
 | **POCO F5**                | `marble`     |
+| **POCO F5 PRO**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
 | **POCO X3 NFC**            | `surya`      |
@@ -47,6 +48,7 @@
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
 - **[Rve](https://github.com/Rve27)** (POCO F1)
 - **[Pabloescobar](https://github.com/pabloescobar-reborn)** (POCO F5)
+- **[DqrKnz](https://github.com/DqrKnzx)** (POCO F5 Pro)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
 - **[Skyy丨アラタ](https://github.com/HinohArata)** (POCO X3 NFC)
