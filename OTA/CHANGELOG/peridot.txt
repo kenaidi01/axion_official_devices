@@ -1,0 +1,6 @@
+AxionOS v1.4 Changelogs for peridot:
+
+Build Date : 08/05/2025
+- Update blobs to OS2.0.102.0.VNPMIXM
+- Switch to armv9-a ARCH variant
+- XiaomiParts: Add Turbo Charging
