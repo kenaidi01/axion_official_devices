@@ -197,6 +197,13 @@
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg"
     },
     {
+      "device_name": "POCO X5 Pro 5G",
+      "codename": "redwood",
+      "maintainer": "Mayur_U",
+      "support_group": "https://t.me/Mayurbuilds",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x5-pro-5g.jpg"
+    },
+    {
       "device_name": "POCO X6 Pro 5G",
       "codename": "duchamp",
       "maintainer": "zenin1504",
