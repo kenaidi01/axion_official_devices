@@ -41,13 +41,20 @@
 | **TECNO POVA 4 Pro**       | `LG8n`       |
 | **TECNO POVA 4**           | `LG7n`       |
 | **Xiaomi Pad 6**           | `pipa`       |
+| **Redmi 3S/3X**	     | `land`	    |
+| **Redmi 4**		     | `prada`	    |
+| **Redmi 4A**		     | `rolex`	    |
+| **Redmi 4X**		     | `santoni`    |
+| **Redmi 5A**		     | `riva`	    |
+| **Redmi Note 5A/Y1 Lite**  | `ugglite`    |
+| **Redmi Note 5A/Y1 Prime** | `ugg`	    |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
 - **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
-- **[Rve](https://github.com/Rve27)** (POCO F1)
+- **[Rve](https://github.com/Rve27)** (POCO F1 and Redmi 3S/3X/4/4A/4X/5A/Note 5A/Y1)
 - **[Pabloescobar](https://github.com/pabloescobar-reborn)** (POCO F5)
 - **[DqrKnz](https://github.com/DqrKnzx)** (POCO F5 Pro)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
