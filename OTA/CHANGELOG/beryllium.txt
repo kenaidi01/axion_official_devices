@@ -1,0 +1,63 @@
+AxionOS v1.4 Nightly
+Build Date : 
+- Remove BCR
+- Set cores for cpusets background and foreground
+- Set libperfmgr mode extension lib via soong config
+- Update adreno blobs from LA.UM.9.3.r1-02700-sdm845.0
+
+AxionOS v1.3 Nightly
+Build Date : 27/05/2025
+- Remove unused blobs
+- Setup ELF checks and regen vendor after enabling ELF checks
+- Do not manually build dependencies
+- Libraries are now automatically added to PRODUCT_PACKAGES
+- Patch libwfdservice to resolve duplicate dependencies
+- Build libqti_vndfwk_detect.vendor:32
+- Add libwfdservice_shim for WFD
+- parts: Move thermal profiles to system category
+- Don't declare BOARD_VENDOR
+
+AxionOS v1.2 Beta
+Build Date : 09/04/2025
+- New kernel source
+- Add support for bypass charging feature
+- power: Abstract android.hardware.power-ndk dependency
+- sepolicy: Remove obsolete NXP NFC and eSE rules
+- sepolicy: Rewrite access to BT and WiFi MAC address files
+- audio: Use AOSP USB v2 audio HAL
+- audio: Remove direct flag for VOIP RX
+- Move to Xiaomi fingerprint AIDL
+- parts: Remove unused thermal profiles
+- Downgrade WFD system stack
+
+AxionOS v1.2 Beta
+Build Date : 24/03/2025
+- Move no cutout overlay packages to device tree
+- rro_overlays: Adjust status bar padding
+- Remove Mi Sound Enhancer
+- Added Dolby
+- sepolicy: Address PowerHAL denials
+- sepolicy: Address init denials
+- sepolicy: Address CameraHAL denials
+- Add missing FCM
+- scripts/setlocalversion: Don't append -dirty in localversion
+
+AxionOS v1.2
+Build Date : 18/03/2025
+- Add aperture
+- Remove AudioFX app
+- Change default hotspot ssid
+- Change a default Settings.Global.DEVICE_NAME
+- Change default bluetooth name
+- Change default usb string
+- Switch SystemUI overlay to RRO overlays
+- Adjust status bar padding
+- tetheroffload: Version 1.1
+- parts: Implement headset scenario
+- parts: Add dirac icons
+- parts: Remove clear speaker summary from manifest
+- libperfmgr-ext: Bump to android.hardware.power-V6-ndk
+- UPSTREAM: HID: core: zero-initialize the report buffer
+- BACKPORT: disp: msm: dsi: add null pointer check in dsi_display_dev_remove
+- qcacld-5.0: Fix the possible OOB write in country IE unpack
+- arm64: configs: Enable Block IO Controller
