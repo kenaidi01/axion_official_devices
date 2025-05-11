@@ -1,5 +1,5 @@
 AxionOS v1.4 Nightly
-Build Date : 
+Build Date : 11/05/2025
 - Remove BCR
 - Set cores for cpusets background and foreground
 - Set libperfmgr mode extension lib via soong config
