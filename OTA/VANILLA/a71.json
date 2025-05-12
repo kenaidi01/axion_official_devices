@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1746811171,
-            "filename": "axion-1.4-NIGHTLY-20250507-OFFICIAL-VANILLA-a71.zip",
-            "id": "f65092dce9bf1cba4954fe447d5f52ab",
+            "datetime": 1747063457,
+            "filename": "axion-1.4-NIGHTLY-20250512-OFFICIAL-VANILLA-a71.zip",
+            "id": "ffd4502a7282cdda56eb6cd4ec7d0b51",
             "romtype": "OFFICIAL",
-            "size": 1279023409,
-            "url": "https://github.com/rmuxnet/Axion-A71/releases/download/uhm/axion-1.4-NIGHTLY-20250509-OFFICIAL-VANILLA-a71.zip",
+            "size": 1279215867,
+            "url": "https://github.com/rmuxnet/Axion-A71/releases/download/1.4-NIGHTLY-20250512-OFFICIAL/axion-1.4-NIGHTLY-20250512-OFFICIAL-VANILLA-a71.zip",
             "version": "1.4"
         }
     ]
