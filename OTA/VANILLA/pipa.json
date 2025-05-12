@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1746812192,
-            "filename": "axion-1.4-NIGHTLY-20250509-OFFICIAL-VANILLA-pipa.zip",
-            "id": "97a9cb2781be2b4bd95674dcf8e8dfc1",
+            "datetime": 1747067854,
+            "filename": "axion-1.4-NIGHTLY-20250512-OFFICIAL-VANILLA-pipa.zip",
+            "id": "9bcbe148920a82f56fd31a5eb94e9b1a",
             "romtype": "OFFICIAL",
-            "size": 1452695891,
-            "url": "https://github.com/rmuxnet/Axion-PIPA/releases/download/meh/axion-1.4-NIGHTLY-20250509-OFFICIAL-VANILLA-pipa.zip",
+            "size": 1453082126,
+            "url": "https://github.com/rmuxnet/Axion-PIPA/releases/download/axion-1.4-NIGHTLY-20250512-OFFICIAL/axion-1.4-NIGHTLY-20250512-OFFICIAL-VANILLA-pipa.zip",
             "version": "1.4"
         }
     ]
