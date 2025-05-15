@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1745200760,
-            "filename": "axion-1.3-NIGHTLY-20250421-OFFICIAL-GMS-shiba.zip",
-            "id": "58a97b042e5c463cd263621dc1508afd",
+            "datetime": 1747309121,
+            "filename": "axion-1.4-NIGHTLY-20250515-OFFICIAL-GMS-shiba.zip",
+            "id": "977fddeef3d241365140bfdf20d51101",
             "romtype": "OFFICIAL",
-            "size": 1884981143,
-            "url": "https://www.pling.com/p/2259442/",
-            "version": "1.3"
+            "size": 1879892910,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.4/axion-1.4-NIGHTLY-20250515-OFFICIAL-GMS-shiba.zip",
+            "version": "1.4"
         }
     ]
 }

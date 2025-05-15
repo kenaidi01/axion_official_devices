@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1745197262,
-            "filename": "axion-1.3-NIGHTLY-20250420-OFFICIAL-VANILLA-husky.zip",
-            "id": "50979828087543367682c303a44feab8",
+            "datetime": 1747304188,
+            "filename": "axion-1.4-NIGHTLY-20250515-OFFICIAL-VANILLA-husky.zip",
+            "id": "0bc0e2c0dd6e5ddc1167407818e68986",
             "romtype": "OFFICIAL",
-            "size": 1508706032,
-            "url": "https://www.pling.com/p/2259442/",
-            "version": "1.3"
+            "size": 1502485221,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.4/axion-1.4-NIGHTLY-20250515-OFFICIAL-VANILLA-husky.zip",
+            "version": "1.4"
         }
     ]
 }
