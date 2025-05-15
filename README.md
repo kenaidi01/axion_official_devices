@@ -23,31 +23,23 @@
 | **Oneplus 9R**             | `lemonades`  |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X/Redmi K40**         | `alioth`     |
-| **POCO F4/Redmi K40S**     | `munch`     |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
 | **POCO X3 NFC**            | `surya`      |
-| **POCO X4 PRO 5G**         | `veux`       |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
 | **Realme GT Neo 3T**       | `RMX3371`    |
+| **Redmi Mi8937 Series**    | `Mi8937`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
-| **Redmi Note 11 Pro Series**     | `veux`       |
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
 | **TECNO POVA 4**           | `LG7n`       |
 | **Xiaomi Pad 6**           | `pipa`       |
 | **Redmi 3S/3X**	     | `land`	    |
-| **Redmi 4**		     | `prada`	    |
-| **Redmi 4A**		     | `rolex`	    |
-| **Redmi 4X**		     | `santoni`    |
-| **Redmi 5A**		     | `riva`	    |
-| **Redmi Note 5A/Y1 Lite**  | `ugglite`    |
-| **Redmi Note 5A/Y1 Prime** | `ugg`	    |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
@@ -66,9 +58,7 @@
 - **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
 - **[ꜱᴀɴᴊɪ | サンジ](https://github.com/Sanjivns)** (POCO F3/Mi 11X/Redmi K40)
-- **[masarou](https://github.com/masarou92)** (Redmi K40S/POCO F4)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro)
-- **[amritokun](https://github.com/amritokun)** (Redmi Note 11E Pro, Redmi Note 11 Pro 5G, POCO X4 Pro 5G )
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 and POVA 4 Pro)
 - **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
 - **[Steven (superxorn)](https://github.com/superxorn)** (Mi 9T)

@@ -148,13 +148,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/alioth.png"
     },
     {
-      "device_name": "POCO F4/Redmi K40S",
-      "codename": "munch",
-      "maintainer": "masarou",
-      "support_group": "https://t.me/masarou7A",
-      "image_url": "https://wiki.lineageos.org/images/devices/munch.png"
-    },
-    {
       "device_name": "POCO F5",
       "codename": "marble",
       "maintainer": "Pabloescobar",
@@ -188,13 +181,6 @@
       "maintainer": "Skyy丨アラタ",
       "support_group": "https://t.me/ArataXDummy",
       "image_url": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png"
-    },
-    {
-      "device_name": "POCO X4 PRO 5G",
-      "codename": "veux",
-      "maintainer": "amritokun",
-      "support_group": "https://t.me/veuxplayground",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg"
     },
     {
       "device_name": "POCO X5 Pro 5G",
@@ -237,13 +223,6 @@
       "maintainer": "donjohanliebert",
       "support_group": "https://t.me/donjohanliebert_sg",
       "image_url": "https://wiki.lineageos.org/images/devices/sweet.png"
-    },
-    {
-      "device_name": "Redmi Note 11 Pro Series",
-      "codename": "veux",
-      "maintainer": "amritokun",
-      "support_group": "https://t.me/veuxplayground",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg"
     },
     {
       "device_name": "Redmi K60 Pro",
