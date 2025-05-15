@@ -32,14 +32,13 @@
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
 | **Realme GT Neo 3T**       | `RMX3371`    |
-| **Redmi Mi8937 Series**    | `Mi8937`     |
+| **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi K60 Pro**          | `socrates`   |
 | **TECNO POVA 4 Pro**       | `LG8n`       |
 | **TECNO POVA 4**           | `LG7n`       |
 | **Xiaomi Pad 6**           | `pipa`       |
-| **Redmi 3S/3X**	     | `land`	    |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-9 series - Open for Co-Maintainership)
