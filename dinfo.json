@@ -66,21 +66,21 @@
     {
       "device_name": "Google Pixel 9",
       "codename": "tokay",
-      "maintainer": "manid_reddy",
+      "maintainer": "Itachi",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/tokay.png"
     },
     {
       "device_name": "Google Pixel 9 Pro",
       "codename": "caiman",
-      "maintainer": "manid_reddy",
+      "maintainer": "Itachi",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/caiman.png"
     },
     {
       "device_name": "Google Pixel 9 Pro XL",
       "codename": "komodo",
-      "maintainer": "nivlafx",
+      "maintainer": "Itachi",
       "support_group": "https://t.me/AxionAOSP_PixelsSupport",
       "image_url": "https://wiki.lineageos.org/images/devices/komodo.png"
     },
