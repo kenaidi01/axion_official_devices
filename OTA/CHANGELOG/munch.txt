@@ -1,0 +1,32 @@
+- add some condition to the code
+- munch: provide ota for unofficial axion build
+- munch: overlay: Disable intrusive gms components
+- munch: Disable logging sensors-hal events This sets log_level to 0 10-14 14:17:17.674 14629 14629 I sensors-hal: get_system_config:67, log_level: 0
+- munch: props: Clean up useless logspams
+- munch: Disable kpti
+- munch: Adress some denials
+- munch: disable proximity usage during doze
+- munch: migrate TARGET_INIT_VENDOR_LIB to soong_config_set
+- munch: migrate TARGET_HEALTH_CHARGING_CONTROL_SUPPORTS_BYPASS to soong_config_set
+- munch: migrate TARGET_CAMERA_OVERRIDE_FORMAT_FROM_RESERVED to soong_config_set
+- munch: dont build BCR
+- munch: remove gms flag
+- munch: add ksu-next with susfs before build
+- munch: lest build AxionAOSP
+- munch: Build vendor.display.config@1.9
+- munch: Resolving AxionOS Kernel Tuning/Performance Mode Denials
+- munch: add bypass charging sepolicy rule
+- munch: Disable game default frame rate feature * This feature was enabled by default on Android 15 and limits the refresh rate to 60FPS in some games. Disabling it allows games to use any refresh rate without restrictions.
+- munch: Silence some spammy logging
+- munch: wlan: Disable WLAN Firmware loggings
+- munch: parts: Update broadcast receivers for Android 13+ compliance
+- munch: parts: Vi-trans gamebar
+- munch: parts: Introduce GameBar v4.0
+- Revert "munch: Adjust statusbar height"
+- munch: Cleanup OMX dependence
+- munch: Set TARGET_BOOT_ANIMATION_RES to 1080
+- munch: rootdir: Use lower streaming bandwidth for USB 2.0 for UVC
+- munch: Opt out of VIDEO_ENCODE flag for DeviceAsWebcam
+- munch: Setup DeviceAsWebcam
+- munch: remove unused config_speed_up_audio_on_mt_calls
+- munch: Remove deprecated config_mobile_tcp_buffers/networkAttributes 
